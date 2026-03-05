@@ -66,8 +66,10 @@ Bot: The answer is 12
 You: tell me a joke
 Bot: Why do programmers prefer dark mode? Because light attracts bugs!
 ```
+## Execution
 
----
+<img width="1919" height="1141" alt="Screenshot 2026-03-05 222708" src="https://github.com/user-attachments/assets/e4d367cd-8377-43dc-9c8d-894a8ddd6bc4" />
+
 
 ## 🎯 Learning Outcomes
 
@@ -77,7 +79,7 @@ Bot: Why do programmers prefer dark mode? Because light attracts bugs!
 - Working with Python modules
 - Building interactive CLI applications
 
----
+
 
 ## 🚀 Future Improvements
 
